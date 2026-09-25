@@ -1,16 +1,18 @@
-## Hi there 👋
+# **👋 Hej! Detta är Ahmed Mohamed Ali**
 
-<!--
-**Ahmed-Abu-Nahida/Ahmed-abu-Nahida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Jag går min första termin på Mittuniversitetet och studerar webbutveckling.
+- Under mina studier arbetar jag dagligen med HTML, CSS, JavaScript, Git och GitHub samt publicering av webbplatser.
 
-Here are some ideas to get you started:
+##  **Studier**
+- **HTML** – för semantisk struktur  
+- **CSS** – för styling och design  
+- **JavaScript** – för interaktivitet  
+- **Git & GitHub** – för versionshantering  
+- **Publicering** – via GitHub Pages och Netlify  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Mål**
+- Att utvecklas och skapa strukturerade och tydliga webbplatser  
+- Att bli trygg i Git och GitHub  
+- Att fortsätta lära mig mer om webbutveckling och bygga upp min kompetens  
+
+*Tack för att du besöker min profil!*
